@@ -3,9 +3,10 @@ Held at the Fawkes Training Room on 5th November from 13:00 to 17:00
 <a name="TheTop"></a>
 ### Trainers
 Ash.    
-Mark.   
+Mark.  
+Rachael
 
-## Topics
+## Topics: trying to understand the lesson
 Headings   
 Bullet point lists (& nesting). 
 * Point 1
@@ -41,8 +42,10 @@ Collapsing text(This may not work on old browsers).
     <p>Obviously it is 42</p>
 </details>
 
+Help!!!!
+
 # Useful links.  
-Anchors within our document. 
+The train timetable.
 
 [Go to the top](#TheTop).  
 
